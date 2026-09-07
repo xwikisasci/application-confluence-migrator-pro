@@ -36,13 +36,13 @@
   <minorEdit>false</minorEdit>
   <syntaxId>plain/1.0</syntaxId>
   <hidden>true</hidden>
-  <content>### Missing: confluencepro.diagramconverter.livedata.emptyvalue=
+  <content>confluencepro.diagramconverter.livedata.emptyvalue=
 confluencepro.diagramconverter.livedata.dryRun=Exécution à blanc
 confluencepro.diagramconverter.livedata.updateInPlace=Changé sur place
-### Missing: confluencepro.diagramconverter.livedata.migrations=Migrations
+confluencepro.diagramconverter.livedata.migrations=Migrations
 confluencepro.diagramconverter.livedata.spaces=Espaces
 confluencepro.diagramconverter.livedata.executed=Statut de l'exécution
-### Missing: confluencepro.diagramconverter.livedata.doc.name=Name
+confluencepro.diagramconverter.livedata.doc.name=Nom
 confluencepro.diagramconverter.livedata.doc.creationDate=Créé
 confluencepro.diagramconverter.livedata.doc.date=Mis à jour
 </content>
